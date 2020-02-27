@@ -68,7 +68,7 @@ public class Computer {
                 "CPU = " + getCpu() +
                 ", RAM = " + getRam() +
                 ", HDD = " + getHdd() +
-                "count switch = " + count);
+                " count switch = " + count);
     }
 
     public boolean switchOn() {
@@ -108,11 +108,11 @@ public class Computer {
 
     public Computer() {
         System.out.println("Input your CPU");
-        setCpu(sc.nextDouble());
+        cpu = sc.nextDouble();
         System.out.println("Input your RAM");
-        setRam(sc.nextInt());
+        ram = sc.nextInt();
         System.out.println("Input your HDD");
-        setHdd(sc.nextInt());
+        hdd = sc.nextInt();
 
     }
 }
