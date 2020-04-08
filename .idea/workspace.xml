@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91045c6d-24d7-4c28-a9a4-5c83cb66f073" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TMSHomework" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y4Z2e7M2TRgudIhPicIZveHqrW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/_my/TMS/tmp" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91045c6d-24d7-4c28-a9a4-5c83cb66f073" name="Default Changelist" comment="" />
+      <created>1582203624152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582203624152</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create new class">
+      <created>1582208791154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582208791154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create new class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new class" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1582208720028">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="445" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1582208720028" />
+    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1582208789337">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1582208789337" />
+    <state x="420" y="134" key="FileChooserDialogImpl" timestamp="1582215378878">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1582215378878" />
+    <state x="361" y="110" width="570" height="524" key="StructurePopup" timestamp="1582208363482">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="361" y="110" width="570" height="524" key="StructurePopup/0.0.1280.760@0.0.1280.760" timestamp="1582208363482" />
+    <state x="232" y="100" key="Vcs.Push.Dialog.v2" timestamp="1582208798848">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="232" y="100" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1582208798848" />
+    <state x="92" y="92" width="1096" height="576" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582208522131">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="92" y="92" width="1096" height="576" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.760@0.0.1280.760" timestamp="1582208522131" />
+    <state x="335" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1582214668137">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="335" y="202" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1582214668137" />
+  </component>
+</project>
